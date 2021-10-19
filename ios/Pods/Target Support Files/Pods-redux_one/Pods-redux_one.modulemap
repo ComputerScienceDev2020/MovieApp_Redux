@@ -1,0 +1,6 @@
+module Pods_redux_one {
+  umbrella header "Pods-redux_one-umbrella.h"
+
+  export *
+  module * { export * }
+}
